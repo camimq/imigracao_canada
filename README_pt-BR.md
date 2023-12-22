@@ -1,4 +1,4 @@
-[🔃 (go-to 🇧🇷) English Version](https://github.com/camimq/imigracao_canada/blob/main/README.md)
+[🔃 (go-to :us:) English Version](https://github.com/camimq/imigracao_canada/blob/main/README.md)
 
 # Imigração Canadá
 
