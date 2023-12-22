@@ -2,7 +2,7 @@
 import pandas as pd
 
 # %%
-df = pd.read_csv('https://raw.githubusercontent.com/camimq/fiap/master/alura/data%20viz/data-visualization_criando_graficos_com_biblioteca_python/base/imigrantes_canada.csv')
+df = pd.read_csv('https://raw.githubusercontent.com/camimq/imigracao_canada/main/base/imigrantes_canada.csv')
 df
 
 # %%
