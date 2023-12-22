@@ -1,4 +1,4 @@
-[🔃 (go-to :us:) English Version](https://github.com/camimq/imigracao_canada/blob/main/README.md)
+[🔃 (go-to 🇺🇸) English Version](https://github.com/camimq/imigracao_canada/blob/main/README.md)
 
 # Imigração Canadá
 
@@ -7,17 +7,20 @@ Projeto desenvolvido no decorrer do curso de Data Visuzalization, disponível na
 ## O que foi abordado
 
 - Criação de gráficos utilizando bibliotecas Python:
-    - Pandas
-    - Seaborn
-    - Plotly
+  - Pandas
+  - Seaborn
+  - Plotly
 - O funcionamento de figuras e eixos da biblioteca Matplotlib
 - Utilização da biblioteca Seaborn na criação de gráficos
 - Gráficos interativos com Plotly
 - Customização de visualizações com diferentes cores, estilos, anotações etc.
 - Boas-práticas para elaboração de gráficos
 
---
 
-Cami Queiroz :studio_microphone: Vamos falar!
+---
+
+
+
+Cami Queiroz 🎙 Vamos falar!
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/camilaqueiroz)  ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&https://medium.com/@camimq/)

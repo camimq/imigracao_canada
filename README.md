@@ -7,19 +7,20 @@ Project developed during the Data Visualization course, available on the [Alura 
 ## What was covered
 
 - Creation of graphs using Python libraries:
-    - Pandas
-    - Seaborn
-    - Plotly
+  - Pandas
+  - Seaborn
+  - Plotly
 - The functioning of figures and axes from the Matplotlib library
 - Use of the Seaborn library to create graphics
 - Interactive charts with Plotly
 - Customization of views with different colors, styles, annotations, etc.
 - Good practices for creating graphs
 
---
 
-Cami Queiroz :studio_microphone: Let´s talk!
+---
+
+
+
+Cami Queiroz 🎙 Let´s talk!
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/camilaqueiroz)  ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&https://medium.com/@camimq/)
-
-
